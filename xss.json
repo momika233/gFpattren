@@ -162,7 +162,6 @@
 "log=",
 "demo=",
 "example=",
-"message=",
 "/?s=",
 "/search?q=",
 "/index.php?lang=",
@@ -262,6 +261,11 @@
 "/?selat=",
 "/?selong=",
 "/?nwlat=",
-"/?geo="
+"/?geo=",
+"api=",
+"password=",
+"emailto=",
+"token=",
+"enddate="
 ]
 }
